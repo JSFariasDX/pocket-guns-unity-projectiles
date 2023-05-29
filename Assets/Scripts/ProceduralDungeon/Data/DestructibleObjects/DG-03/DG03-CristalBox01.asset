@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5c4488287b2466197df857bb14e73b, type: 3}
+  m_Name: DG03-CristalBox01
+  m_EditorClassIdentifier: 
+  sizeX: 1
+  sizeY: 1
+  prefab: {fileID: 6142271088661174785, guid: 0f10f8d5db0aa4c88bd8a4b692f549c8, type: 3}
+  defaultOrientation: 1

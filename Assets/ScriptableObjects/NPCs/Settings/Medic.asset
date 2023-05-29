@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: Medic
+  m_EditorClassIdentifier: 
+  PossibleItems:
+  - {fileID: 7467969146000008134, guid: 3ab8bb77783e8274cb5213e79f92a045, type: 3}
+  - {fileID: 9161901892513194162, guid: ad0aab2ff52cae94dba225db5c194538, type: 3}
+  - {fileID: 6924137222706435599, guid: 07b86f248a1a4db4b979bfd5f0947584, type: 3}
+  - {fileID: 7208650396452363629, guid: c17854ff608209a42b98c2e69763dbaa, type: 3}
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0.1
+  CheapChance: 0.4
+  ExpensiveChance: 0.5
+  VeryExpensiveChance: 0
+  PriceType: 0
+  BloodPercentage: 0
+  SalePriceRange: {x: 10, y: 15}
+  CheapPriceRange: {x: 16, y: 20}
+  ExpensivePriceRange: {x: 21, y: 25}
+  VeryExpensivePriceRange: {x: 0, y: 0}
+  ActivationDialogue: {fileID: 11400000, guid: 813d1be6949d9d04086e69447d1936ed, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: 2c7e9f7e4005ce14b9eeba585c21f4e3, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: c2ecc262a4dd66f44a5be0b5ee1cdaa4, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: abf27946f7ec9254f86ae84815bd02ba, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: 36341aeec5d984c4982287cfa7909484, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: ExplorerLabActivationDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - "It ain\u2019t much, but it\u2019s enough to share. Pick one and good luck."
+  - Name: 
+    Sentences:
+    - "I\u2019ve glimpsed the foe ahead. It's wise to pick one of these up."
+  - Name: 
+    Sentences:
+    - Let me help you in your battle ahead. Take one.

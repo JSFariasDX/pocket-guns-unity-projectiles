@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: GlacierDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - Have you seen the fauna that lives here? Why do they stagger when charging
+      in your direction? There must be a reason...
+  - Name: 
+    Sentences:
+    - ...and there I was, bored with all this white canvas of a place, when I realized
+      I was already knee-deep in trouble! There are some animals in this place that
+      blends with the scenery.
+  - Name: 
+    Sentences:
+    - This place's so full of snow that the fall of a jumpin' one sends projectiles
+      everywhere! Careful not to be hit, mate.
+  - Name: 
+    Sentences:
+    - We're basically on a island! There's just water beneath us. It makes me wonder
+      what kind of amazing beings dwell in there.
+  - Name: 
+    Sentences:
+    - Oy, mate! You're a Caretaker, innit? Seems like your kind left behind some
+      reactors to heat up the place when they first uncovered here. Since you still
+      carry the same weapons as them, I guess the ones you wield could still charge
+      them up.
+  - Name: 
+    Sentences:
+    - ...maybe if I could build a small reactor we could keep ourselves from getting
+      frozen here all the time...
+  - Name: 
+    Sentences:
+    - Something doesn't fit here. The Pocket-Mor told us the creatures stole the
+      eggs, but for what purpose? They don't eat it- truth be told, I haven't seen
+      they do anything with them at all!
+  - Name: 
+    Sentences:
+    - 'I''ve glimpsed a creature getting too close to the egg located in this glacier.
+      A kraken of sorts quickly rose from it''s slumber and sent it flying. Does
+      the kraken treasure it''s possession or does it protect it from harm? I don''t
+      understand... '
+  - Name: 
+    Sentences:
+    - I might be small, I might be weak, but I need to get to the end of this.
+  - Name: 
+    Sentences:
+    - So many entries... So much story...
+  - Name: 
+    Sentences:
+    - I've managed to translate a few entries already, mate, and I can see the words
+      Caretaker and Mor repeated all over!
+  - Name: 
+    Sentences:
+    - I've run some tests and the water below us is kilometers deep! Imagine what
+      kind of amazing beings must dwell in such an ocean...
+  - Name: 
+    Sentences:
+    - The elevator's locked. We'll need some sort of keys to unlock it.

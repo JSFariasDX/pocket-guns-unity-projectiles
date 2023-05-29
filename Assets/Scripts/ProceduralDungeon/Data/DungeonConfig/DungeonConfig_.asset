@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94702effab10d4a8da301c6764890bbc, type: 3}
+  m_Name: DungeonConfig_
+  m_EditorClassIdentifier: 
+  type: 0
+  paintAsset: {fileID: 0}
+  background: {fileID: 0}
+  spawnLights: 0
+  filterColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  minSortedRooms: 5
+  maxSortedRooms: 11
+  centerTemplateSpawnChance: 40
+  cornerBoxesSpawnChance: 80
+  primaryOrSecondaryChanceOfPrimary: 30
+  roomRewardChance: 20
+  rareNPCChance: 20
+  tankPrefab: {fileID: 0}
+  AmbientLightPrefab: {fileID: 0}
+  FloorLightPrefab: {fileID: 0}
+  SpotLightPrefab: {fileID: 0}
+  doorPrefab: {fileID: 0}
+  bossPrefab: {fileID: 0}
+  commonNPCPrefab: {fileID: 0}
+  rareNPCPrefab: {fileID: 0}
+  spriteMaskPrefab: {fileID: 0}
+  powerUpRewards: []
+  healRewards: []
+  gunRewards: []
+  primaryBreakableObstacles: []
+  primaryUnbreakableObstacles: []
+  secondaryBreakableObstacles: []
+  roomCenterTemplates: []
+  baseOST: {fileID: 0}
+  bossOST: {fileID: 0}
+  clearRoomSound: {fileID: 0}
+  enemySpawnParticlePrefab: {fileID: 0}
+  rewardSpawnParticle: {fileID: 0}
+  enemiesEncountersFolder: 
+  possibleEncountersData: []
+  portalPrefab: {fileID: 0}
+  portalRedirectScene: 
+  isLastDungeon: 0
+  eggPrefab: {fileID: 0}
+  layer1Decorations: []
+  layer2Decorations: []
+  layer3Decorations: []
+  cornerDecorations: []
+  externalDecorations: []
+  externalDecorationCount: 1

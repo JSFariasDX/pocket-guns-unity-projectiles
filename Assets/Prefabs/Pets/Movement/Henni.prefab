@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4501566582362145129
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[5]
+      value: -1756319847
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[6]
+      value: 1769779363
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[7]
+      value: -536955959
+      objectReference: {fileID: 0}
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: 9b7726c23fa4986429263f0353aca245, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: flipY
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: essence
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: fogMask
+      value: 
+      objectReference: {fileID: 7380219336069378323, guid: aeb1696641a29b249bbb3682c0c19970, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Henni
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: c95c28874b352824cb85a76775e67678, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Live Fast
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 84142b5adeec75e45801bb9fcc347f13, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: -1929498928, guid: 1c4fc68a361e74ecc83613d51c887ce1, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: d122720ffb56d9d45b1ebd3463c76002, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: Die Young. Considerable increase in speed at the cost of lesser life
+        total.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[0]
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[1]
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[2]
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647265, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: maxValue
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1929498928, guid: 1c4fc68a361e74ecc83613d51c887ce1, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: Henni
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: weapon
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healing
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: dropRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: movement
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: displayHp
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialStats
+      value: 9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &7806931534224241037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 4501566582362145129}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &527030081740015080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7806931534224241037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8adca5849a04745bfece4f60b08040, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Live Fast
+  description: Die Young. Considerable increase in speed at the cost of lesser life
+    total.
+  useType: 0
+  maxUses: 0
+  totalTime:
+  - 10
+  - 12
+  - 14
+  rechargeTime:
+  - 10
+  - 10
+  - 10
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 6379805939498447928, guid: c91a2a4eeda814441a543c6974596b1e, type: 3}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  charMaxHPPercent: 0a000000140000001e000000
+  charSpeedPercent: 1e000000280000003c000000

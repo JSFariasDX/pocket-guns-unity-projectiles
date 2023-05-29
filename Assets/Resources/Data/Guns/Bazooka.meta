@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Resources/Data/Guns/Bazooka.meta
+guid: 1c30f9e8ba69c4287a748445287ee799
+folderAsset: yes
+DefaultImporter:
+========
+guid: 8ce0d31f936f04aafb2245bbafe23f3a
+NativeFormatImporter:
+>>>>>>>> release/0.12:Assets/Scripts/ProceduralDungeon/Data/DungeonConfig/DungeonConfig_Glacier.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

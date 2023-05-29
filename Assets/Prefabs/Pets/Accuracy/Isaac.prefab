@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9125547681247017894
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8612579
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.16176468
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[5]
+      value: -1756319847
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[6]
+      value: 1769779363
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[7]
+      value: -536955959
+      objectReference: {fileID: 0}
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: c4a612dad38244379912c99620923285, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: fogMask
+      value: 
+      objectReference: {fileID: 7380219336069378323, guid: aeb1696641a29b249bbb3682c0c19970, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Isaac
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: c50f74e1bd3251543963e9b770bdf496, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Cupid Arrow
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: e3829c6a0c06674458b7bf345259cf1e, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: d670557a89413424eb2e9b1b8cf52e0e, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c898086ca41380439f97a3fd7b34a27, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: Love finds its way. Your projectiles go through obstacles!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[0]
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[1]
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[2]
+      value: 140
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647265, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: maxValue
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d670557a89413424eb2e9b1b8cf52e0e, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: Isaac
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: weapon
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healing
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: dropRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: movement
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: displayHp
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialStats
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &3209792675214658370 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 9125547681247017894}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8489583624736373165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3209792675214658370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8994ed9a7cedf4c939da123e6d904610, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Cupid Arrow
+  description: Love finds its way. Your projectiles go through obstacles!
+  useType: 1
+  maxUses: 1
+  totalTime: []
+  rechargeTime:
+  - -1
+  - -1
+  - -1
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  charHealingPercent: 10
+  primaryPocketHealingPercent: 10
+  secondaryPocketsHealingPercent: 10
+  secondaryAmmoBonusPercent: 0
+  secondaryBulletForcePercent: 0
+  secondaryFireRatePercent: 0
+  secondaryPushbackPercent: 0
+  secondaryBulletDistancePercent: 0

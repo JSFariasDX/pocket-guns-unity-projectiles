@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: SinisterMerchant
+  m_EditorClassIdentifier: 
+  PossibleItems:
+  - {fileID: 2073088935134369303, guid: ffcc7f8801ad49a4dafa7191a0ae5ea0, type: 3}
+  - {fileID: 6399652603606739880, guid: 09ff1a92e703018429f1dd7219631a22, type: 3}
+  - {fileID: 2540699840310644661, guid: ca208b2d2e051e747bdf7d8d62493625, type: 3}
+  - {fileID: 6990303675350587155, guid: 8887e4ff3254a11498582f70a071f0db, type: 3}
+  - {fileID: 9066100482300171746, guid: 3fd1773365d390b459171ee4412e14f1, type: 3}
+  - {fileID: 1371389411043386046, guid: adc85d108d3a522488f2d128be2b9d32, type: 3}
+  - {fileID: 1085904801931434609, guid: fc14f60434745de49b68d85a88dcb4bf, type: 3}
+  - {fileID: 2985797263062380164, guid: 50b4fdece79d977439281a23c40f5a31, type: 3}
+  - {fileID: 1832557871573282973, guid: d9e40fd0dac171c40969b5d64ed39a22, type: 3}
+  - {fileID: 7713808192269643083, guid: c11621f22bfc33840939e88b76483a8f, type: 3}
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0
+  CheapChance: 0
+  ExpensiveChance: 0
+  VeryExpensiveChance: 0
+  PriceType: 1
+  BloodPercentage: 50
+  SalePriceRange: {x: 0, y: 0}
+  CheapPriceRange: {x: 0, y: 0}
+  ExpensivePriceRange: {x: 0, y: 0}
+  VeryExpensivePriceRange: {x: 0, y: 0}
+  ActivationDialogue: {fileID: 11400000, guid: 9c95d7516ee0c9045a2e9fa6e0ef2e76, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: d9d21ca261bde4c429be21e1080fbcfd, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: 682237e40b695644a87e9998cf5360ac, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: 098686caf96643d438643bc354d02b1e, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: f03c682bbe5c50f4388900ecdd616584, type: 2}

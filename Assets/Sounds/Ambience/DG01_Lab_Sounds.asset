@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bd992325fecbe48823281d705687a2, type: 3}
+  m_Name: DG01_Lab_Sounds
+  m_EditorClassIdentifier: 
+  backgroundSound: {fileID: 0}
+  ambientSounds:
+  - {fileID: 8300000, guid: e247b22bca0d5ac4fb73629dd52f6788, type: 3}
+  - {fileID: 8300000, guid: 6150bcc9ddbe1e6428503da5dae96374, type: 3}
+  - {fileID: 8300000, guid: d17a4d35e29645e40b3c76a03fed4981, type: 3}
+  - {fileID: 8300000, guid: 4a1b2932a767ffa43ab776327a7aadc9, type: 3}
+  minInterval: 40
+  maxInterval: 60
+  volumeMultiplier: 0.05

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47786d4c499bbd42a2c6fa3159da9e6, type: 3}
+  m_Name: EnemyEncounter 22
+  m_EditorClassIdentifier: 
+  enabled: 1
+  challengeLevel: 3
+  encounters:
+  - enemyPrefab: {fileID: 1844991862769652765, guid: 11c43c1d8e7fbc240b3bc573fb167356, type: 3}
+    enemyCount: 3
+  - enemyPrefab: {fileID: 2608587750998030665, guid: 296b3e528fb503d4e82bf78f17d255df, type: 3}
+    enemyCount: 1

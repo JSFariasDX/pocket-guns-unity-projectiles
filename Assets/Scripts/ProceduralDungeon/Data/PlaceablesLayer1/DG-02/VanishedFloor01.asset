@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5c4488287b2466197df857bb14e73b, type: 3}
+  m_Name: VanishedFloor01
+  m_EditorClassIdentifier: 
+  sizeX: 6
+  sizeY: 2
+  prefab: {fileID: 7410357179275504850, guid: 35fedfd010b8b4209923fca8f9a24193, type: 3}
+  defaultOrientation: 1

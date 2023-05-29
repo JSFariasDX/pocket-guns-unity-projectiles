@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: Merchant 1
+  m_EditorClassIdentifier: 
+  PossibleItems:
+  - {fileID: 4758076633115754621, guid: 43a14425f32739345813b43359a463f6, type: 3}
+  - {fileID: 1996572502390589369, guid: ac8774b598050cb458a68dc586a13709, type: 3}
+  - {fileID: 8688794867535796146, guid: 65e162cef329fd942b2e9f17a1893432, type: 3}
+  - {fileID: 4125909343020767205, guid: 02b0704233964c840b5e6063aa078b4f, type: 3}
+  - {fileID: 3821505280989423351, guid: 2ec8f98360dd1924ea94e7c6dbaa7c3a, type: 3}
+  - {fileID: 2088494432640115833, guid: 9e2277fbb0a09634b80c1125e956fff2, type: 3}
+  - {fileID: 1527002739543712969, guid: 73bf7e4c71cee7947a9e0bac4e87e3e2, type: 3}
+  - {fileID: 5728777235024249331, guid: 37c3bf1fe1a725c4baa079640a1f4e8f, type: 3}
+  - {fileID: 2123991899982015023, guid: 90309beb379e241448388861707f7ac9, type: 3}
+  - {fileID: 1304309315622507073, guid: 23971f6583b851242baeaa6613f579c6, type: 3}
+  - {fileID: 5022516365452080323, guid: 722ede76fd186894e834853fc540646b, type: 3}
+  - {fileID: 8951971420885515245, guid: 40cb2df181cf4fd4293ea095bd237cb9, type: 3}
+  - {fileID: 1723794868039733272, guid: eb0775f90f35049488f344a28acb14d6, type: 3}
+  - {fileID: 7151606234679558627, guid: 610e69b2d0cb37741accc1542a2838af, type: 3}
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0.1
+  CheapChance: 0.35
+  ExpensiveChance: 0.45
+  VeryExpensiveChance: 0.1
+  PriceType: 0
+  BloodPercentage: 0
+  SalePriceRange: {x: 10, y: 15}
+  CheapPriceRange: {x: 16, y: 20}
+  ExpensivePriceRange: {x: 21, y: 25}
+  VeryExpensivePriceRange: {x: 26, y: 35}
+  ActivationDialogue: {fileID: 11400000, guid: a99394a16cfa1c748b97553437b18ed8, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: 2fcf8fa76f69dd84b9cee181f03781db, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: 067f446fc32b2b741a8ed6d63f39ebdc, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: 10b0d4a9cf14adc4da9c6f4bcc983376, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: b5f9570a4b9a624409d9cd55053bc0ff, type: 2}

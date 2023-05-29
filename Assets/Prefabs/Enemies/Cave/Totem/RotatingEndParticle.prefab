@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2324480729652198942
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 846484190994748142, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 846484190994748142, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 140
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2117141804147176898, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6924994777866746311, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: m_Name
+      value: RotatingParticle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151930414012258352, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151930414012258352, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151930414012258352, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c097bc1453dd8d64097020025b8f7bb4, type: 3}

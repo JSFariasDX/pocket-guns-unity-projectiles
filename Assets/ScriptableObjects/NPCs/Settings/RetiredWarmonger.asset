@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: RetiredWarmonger
+  m_EditorClassIdentifier: 
+  PossibleItems:
+  - {fileID: 703539794160958183, guid: 6ccddea636f06f34dbf3696a1aa0f3e0, type: 3}
+  - {fileID: 703539794160958183, guid: f99d264993c25c8438a422ab0b7f233b, type: 3}
+  - {fileID: 703539794160958183, guid: 27012aa75d2668040b85679a693ccb25, type: 3}
+  - {fileID: 703539794160958183, guid: 8557ce2f6c236264bb2da619e4545442, type: 3}
+  - {fileID: 703539794160958183, guid: ee9229aa3a3a0df48b891a755971c6bf, type: 3}
+  - {fileID: 703539794160958183, guid: d760fdc62fbfe704f8232eadf549b341, type: 3}
+  - {fileID: 703539794160958183, guid: 451ce3cb1261259408bbec99b4fb23cd, type: 3}
+  - {fileID: 703539794160958183, guid: 6692d1e7b73393b4c8a1397e25b4a352, type: 3}
+  - {fileID: 703539794160958183, guid: f56b67d38d49e4046a8f448a48c704d4, type: 3}
+  - {fileID: 703539794160958183, guid: 755d13c05eecfe5409cbdf484d022bed, type: 3}
+  - {fileID: 703539794160958183, guid: df3478cddbd5a974392ce32a586d383d, type: 3}
+  - {fileID: 703539794160958183, guid: eb2418fb3059b934cbeeea05329e9b14, type: 3}
+  - {fileID: 703539794160958183, guid: 2cd87ce3347aab842be4460149676257, type: 3}
+  - {fileID: 703539794160958183, guid: dc1c9220c27f25c42b2bcf5320b14be6, type: 3}
+  - {fileID: 703539794160958183, guid: 1902629912e987b46a5fd06fd407921f, type: 3}
+  - {fileID: 703539794160958183, guid: 28667681cc3d95c4dba93d3f5076175a, type: 3}
+  - {fileID: 703539794160958183, guid: 264b42aed75a7a9458ce61a701e1fa8a, type: 3}
+  - {fileID: 703539794160958183, guid: fde5bdc59de26b5419e72401d6e799db, type: 3}
+  - {fileID: 8968977827728402199, guid: c678e954d5a480842872c19170e8082b, type: 3}
+  - {fileID: 307336667490227310, guid: 1f9cd339b329ca047839f3a91f8663d2, type: 3}
+  - {fileID: 4252765367420264536, guid: 1dd02e4e15cae8b4f815aac7d5869bd5, type: 3}
+  - {fileID: 4159147371502650694, guid: b8a276db3f8baa84da95b119e6899914, type: 3}
+  - {fileID: 1371389411043386046, guid: adc85d108d3a522488f2d128be2b9d32, type: 3}
+  - {fileID: 5022516365452080323, guid: 722ede76fd186894e834853fc540646b, type: 3}
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0.1
+  CheapChance: 0.35
+  ExpensiveChance: 0.45
+  VeryExpensiveChance: 0.1
+  PriceType: 0
+  BloodPercentage: 0
+  SalePriceRange: {x: 15, y: 20}
+  CheapPriceRange: {x: 21, y: 25}
+  ExpensivePriceRange: {x: 26, y: 30}
+  VeryExpensivePriceRange: {x: 31, y: 40}
+  ActivationDialogue: {fileID: 11400000, guid: 13e22f5e2b3b58543adc87ef292d904e, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: a6387a1dabf1bb5428a0c2731f448446, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: 35fb775b1c8c56640b8c5c61683f9eb4, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: f96ab703916ad244f9aac2662dd275a2, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: c8fa27f01ec69214c8cb5e0659e647a6, type: 2}

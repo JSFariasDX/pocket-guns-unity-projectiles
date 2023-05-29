@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7771723288480609869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: 971c0d3bce5fa884a952991bec6f78bc, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: flipY
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: essence
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: fogMask
+      value: 
+      objectReference: {fileID: 7380219336069378323, guid: aeb1696641a29b249bbb3682c0c19970, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Bee
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 8777859a85f49894f944f62e99880fc2, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Short-lived
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: 70bd4d97667a6d943a1c83b21c265f9b, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: d5c6a148e669a764ebd296d31cf4e2ef, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: YOLO. Increased damage and overall drops. Decreased life total.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[0]
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[1]
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[2]
+      value: 85
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647265, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: maxValue
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 70bd4d97667a6d943a1c83b21c265f9b, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: Bee
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: weapon
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healing
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: dropRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: movement
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: displayHp
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialStats
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &4176447696280241833 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 7771723288480609869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4119914672018521696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4176447696280241833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12365fa2c8e72341adc9f2424364615, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Short-lived
+  description: YOLO. Increased damage and overall drops. Decreased life total.
+  useType: 0
+  maxUses: 0
+  totalTime:
+  - 15
+  - 20
+  - 30
+  rechargeTime:
+  - 60
+  - 60
+  - 60
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  coinDropPercent: 0a000000140000001e000000
+  mementoDropPercent: 0a000000140000001e000000
+  weaponDropPercent: 0a000000140000001e000000
+  powerUpDropPercent: 0a000000140000001e000000
+  bulletDamagePercentage: 1e0000002800000032000000
+  healthPercentage: 0a0000001400000028000000

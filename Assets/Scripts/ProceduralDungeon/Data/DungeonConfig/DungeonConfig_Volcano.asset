@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94702effab10d4a8da301c6764890bbc, type: 3}
+  m_Name: DungeonConfig_Volcano
+  m_EditorClassIdentifier: 
+  type: 4
+  paintAsset: {fileID: 11400000, guid: def2b1b510f8d4491b5740b2f8e97b89, type: 2}
+  background: {fileID: 21300000, guid: c25df8a7230be134cb783faa55c68e17, type: 3}
+  TilesetMaterial: {fileID: 0}
+  BackgroundMaterial: {fileID: 0}
+  spawnLights: 1
+  filterColor:
+    serializedVersion: 2
+    rgba: 2133140991
+  filterSortingLayer: ColorFilters
+  minSortedRooms: 5
+  maxSortedRooms: 11
+  centerTemplateSpawnChance: 40
+  cornerBoxesSpawnChance: 80
+  primaryOrSecondaryChanceOfPrimary: 30
+  roomRewardChance: 20
+  NpcSpawnChances: {fileID: 11400000, guid: d64c70b6a20e7c340a370338d54a83a0, type: 2}
+  tankPrefab: {fileID: 0}
+  playerLightIntensity: 0.56
+  playerLightRadius: 12
+  lightInnerRadius: 0
+  AmbientLightPrefab: {fileID: 7506327011322579386, guid: d1a4b2a26ba8b48d194c436561abcf7e, type: 3}
+  FloorLightPrefab: {fileID: 7298689278633777927, guid: 862ae2dfcb35f46c3b1d5d5c8b0b2601, type: 3}
+  SpotLightPrefab: {fileID: 2203060886928998276, guid: 9300f9b8033cb4adc9f3f0e5a057964a, type: 3}
+  distanceFromCenterToDarkSpot: 8
+  lightPaddingFromEachOther: 3
+  PlaceLightsInBossRoom: 1
+  doorPrefab: {fileID: 7810600842107825882, guid: fd8f48f37595d4ccd94f8273be1f1232, type: 3}
+  BossSpawn: {fileID: 3494130234899439961, guid: 06b60edf1943dc74e9b56d5419dde264, type: 3}
+  bossPrefab: {fileID: 6798498171832999668, guid: a76ee931b0b614c73997e0a3cde2ccce, type: 3}
+  BossElevatorPrefab: {fileID: 0}
+  ElevatorOffset: {x: 0, y: 0}
+  bossRoomBaseSize: 0
+  BossRoomIgnoreUpRightCorridors: 0
+  spriteMaskPrefab: {fileID: 2323148869364751348, guid: c6203e5b91bc4f144b7b79287eadc2e3, type: 3}
+  keyChestPrefab: {fileID: 3732090365809076068, guid: 8142762fd829a384bb8536f265bcc18e, type: 3}
+  keysNeeded: 3
+  possibleKeys:
+  - {fileID: 11400000, guid: fc80c066d6b800345909cb7605a63818, type: 2}
+  - {fileID: 11400000, guid: 372d0c63b2997f04ebdab3c6e0989250, type: 2}
+  - {fileID: 11400000, guid: 6d4ba3562dc8e954d8668471410b801a, type: 2}
+  - {fileID: 11400000, guid: be9d7464061de634398d6c3a02c58d0a, type: 2}
+  powerUpRewards:
+  - {fileID: 4758076633115754621, guid: 43a14425f32739345813b43359a463f6, type: 3}
+  - {fileID: 2088494432640115833, guid: 9e2277fbb0a09634b80c1125e956fff2, type: 3}
+  - {fileID: 4125909343020767205, guid: 02b0704233964c840b5e6063aa078b4f, type: 3}
+  - {fileID: 3821505280989423351, guid: 2ec8f98360dd1924ea94e7c6dbaa7c3a, type: 3}
+  - {fileID: 1996572502390589369, guid: ac8774b598050cb458a68dc586a13709, type: 3}
+  - {fileID: 1527002739543712969, guid: 73bf7e4c71cee7947a9e0bac4e87e3e2, type: 3}
+  healRewards:
+  - {fileID: 7467969146000008134, guid: 3ab8bb77783e8274cb5213e79f92a045, type: 3}
+  - {fileID: 9161901892513194162, guid: ad0aab2ff52cae94dba225db5c194538, type: 3}
+  gunRewards:
+  - {fileID: 8449329010984070038, guid: ed3f5977ff6fe7e408a562ea8de72017, type: 3}
+  - {fileID: 8449329010984070038, guid: 449f99839f68de74e973a8f6f00a714e, type: 3}
+  - {fileID: 8449329010984070038, guid: 399a09128afcdc94884a93932fdcfd83, type: 3}
+  - {fileID: 8449329010984070038, guid: 74dc125c473128a4c9bf6476501cdf54, type: 3}
+  primaryBreakableObstacles:
+  - {fileID: 11400000, guid: a362c40a846e646c1871d12891520dd2, type: 2}
+  primaryUnbreakableObstacles:
+  - {fileID: 11400000, guid: 6a2ae687c50554d899a73c3551a2571d, type: 2}
+  secondaryBreakableObstacles:
+  - {fileID: 11400000, guid: 39bec9316a97f4a0a9d85165987d0f48, type: 2}
+  roomCenterTemplates:
+  - {fileID: 11400000, guid: b7072d0ffd138485a9019c7eb9ee9ece, type: 2}
+  baseOST: {fileID: 11400000, guid: f67a1bebbc21541c9ba70d14dd061a42, type: 2}
+  bossOST: {fileID: 11400000, guid: ef6c37a780c61444e90077f7612f2dcc, type: 2}
+  clearRoomSound: {fileID: 8300000, guid: d8f63161218b9494cbcd73a4a69793df, type: 3}
+  ambientSoundPack: {fileID: 0}
+  mainClip: {fileID: 8300000, guid: 4f151ba3cbee1d54fb618739a9dae89f, type: 3}
+  corridorClip: {fileID: 8300000, guid: 785fdb89d2c594442aafe2137213800d, type: 3}
+  bossClip: {fileID: 8300000, guid: e00ae6e7a3de24945986c5e609a8050d, type: 3}
+  enemySpawnParticlePrefab: {fileID: 4489265793676406454, guid: 5fd696d6047a5364ebbaac627b41c0d7, type: 3}
+  rewardSpawnParticle: {fileID: -774639953392968436, guid: 0b629f24bdf551e4ab26cfe0c6563c1d, type: 3}
+  enemiesEncountersFolder: Volcano
+  possibleEncountersData: []
+  portalPrefab: {fileID: 1597337662285920483, guid: 8fae212a6910593468a9a683fe9ef6a8, type: 3}
+  isLastDungeon: 0
+  layer1Decorations:
+  - {fileID: 11400000, guid: 60815b8511d7b492aada8663f52b9d83, type: 2}
+  - {fileID: 11400000, guid: da9073523ef9c4b5caeca0a6e9a95caf, type: 2}
+  layer2Decorations:
+  - {fileID: 11400000, guid: 11d075b630a5440e2914f6bc011ec61e, type: 2}
+  layer3Decorations:
+  - {fileID: 11400000, guid: 38c332122d11b42a28e68de655af92e4, type: 2}
+  cornerDecorations:
+  - {fileID: 1191703979834963249, guid: fee2862c7f4474c838c518ef3fa19f01, type: 3}
+  externalDecorations: []
+  externalDecorationCount: 0

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d96984b8bcf8bb4a9bb7fb1c7d87a36, type: 3}
+  m_Name: EncountersExporter
+  m_EditorClassIdentifier: 
+  export: 0
+  folder: Forest
+  output: "{\"Items\":[{\"challengeLevel\":16,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Cobra\\\",\\\"2x Forest_Swarm\\\"]}\"},{\"challengeLevel\":6,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Adulto\\\",\\\"2x Forest_AranhaParede\\\",\\\"2x Forest_PlantaCarn\xEDvora\\\"]}\"},{\"challengeLevel\":6,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_SorridenteFloresta\\\",\\\"2x Forest_Morcego\\\"]}\"},{\"challengeLevel\":6,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_SorridenteFloresta\\\",\\\"2x Forest_Larva\\\",\\\"1x Forest_Cobra\\\"]}\"},{\"challengeLevel\":6,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_SorridenteFloresta\\\",\\\"2x Forest_Adulto\\\"]}\"},{\"challengeLevel\":5,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_PlantaCarn\xEDvora\\\",\\\"1x Forest_Swarm\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"1x Forest_Casulo\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_Swarm\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Camaleao\\\",\\\"1x Forest_SorridenteFloresta\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Cobra\\\",\\\"2x Forest_Camaleao\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Pupa\\\",\\\"2x Forest_AranhaParede\\\"]}\"},{\"challengeLevel\":15,\"enemies\":\"{\\\"Items\\\":[\\\"3x
+    Forest_Swarm\\\",\\\"2x Forest_Casulo\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Casulo\\\",\\\"2x Forest_Swarm\\\"]}\"},{\"challengeLevel\":4,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Adulto\\\",\\\"2x Forest_PlantaCarn\xEDvora\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_AranhaParede\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Camaleao\\\",\\\"2x Forest_Cobra\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Larva\\\",\\\"2x Forest_Cobra\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Casulo\\\",\\\"1x Forest_SorridenteFloresta\\\",\\\"1x Forest_Pupa\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"3x
+    Forest_Larva\\\",\\\"1x Forest_AranhaParede\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"3x
+    Forest_Morcego\\\"]}\"},{\"challengeLevel\":3,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_Larva\\\"]}\"},{\"challengeLevel\":2,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Cobra\\\"]}\"},{\"challengeLevel\":11,\"enemies\":\"{\\\"Items\\\":[\\\"5x
+    Forest_Larva\\\",\\\"2x Forest_Cobra\\\"]}\"},{\"challengeLevel\":2,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Pupa\\\",\\\"1x Forest_Adulto\\\"]}\"},{\"challengeLevel\":2,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Morcego\\\",\\\"1x Forest_Swarm\\\"]}\"},{\"challengeLevel\":2,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Camaleao\\\",\\\"2x Forest_Larva\\\"]}\"},{\"challengeLevel\":10,\"enemies\":\"{\\\"Items\\\":[\\\"1x
+    Forest_Adulto\\\",\\\"1x Forest_Camaleao\\\",\\\"2x Forest_SorridenteFloresta\\\"]}\"},{\"challengeLevel\":9,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_Camaleao\\\",\\\"2x Forest_Pupa\\\"]}\"},{\"challengeLevel\":8,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_AranhaParede\\\",\\\"1x Forest_Cobra\\\"]}\"},{\"challengeLevel\":8,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_Larva\\\"]}\"},{\"challengeLevel\":8,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_AranhaParede\\\",\\\"2x Forest_Swarm\\\"]}\"},{\"challengeLevel\":7,\"enemies\":\"{\\\"Items\\\":[\\\"2x
+    Forest_AdultoGuerreiro\\\",\\\"2x Forest_Pupa\\\",\\\"1x Forest_Cobra\\\"]}\"}]}"

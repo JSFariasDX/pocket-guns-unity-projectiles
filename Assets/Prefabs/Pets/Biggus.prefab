@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3957930967284367947
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: d25d30e119f630e4ea74db9cfdd36b98, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: essence
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Biggus
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Higher Life Total
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: b052b0919892e504a913062eb9d0bdb3, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 311352867, guid: a8ea5b56489f342efaadcd1bf5c0dc02, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dd883084fef77744afff169768b3252, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: Bigger means better! Increased life total. Single use per dungeon.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 311352867, guid: a8ea5b56489f342efaadcd1bf5c0dc02, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: Biggus
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!4 &7260481085636407982 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 3957930967284367947}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7260481085636407983 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 3957930967284367947}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7019974297357480085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7260481085636407983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b8c6065cf3c7142bbad23b863a49f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Higher Life Total
+  description: Bigger means better! Increased life total. Single use per dungeon.
+  useType: 1
+  maxUses: 1
+  totalTime: -1
+  rechargeTime: -1
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  maxHPPercent: 20
+--- !u!1001 &5176440934352030892
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7260481085636407982}
+    m_Modifications:
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: d25d30e119f630e4ea74db9cfdd36b98, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: essence
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Biggus
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Higher Life Total
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: b052b0919892e504a913062eb9d0bdb3, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 311352867, guid: a8ea5b56489f342efaadcd1bf5c0dc02, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dd883084fef77744afff169768b3252, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: Bigger means better! Increased life total. Single use per dungeon.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 189554a549e231f47bebfc084ef7cb89, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: Biggus
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.17990741
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.17990741
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.17990741
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.131
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &1583408552021867592 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 5176440934352030892}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5968713912763694168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583408552021867592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46b8c6065cf3c7142bbad23b863a49f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Higher Life Total
+  description: Bigger means better! Increased life total. Single use per dungeon.
+  useType: 1
+  maxUses: 1
+  totalTime: -1
+  rechargeTime: -1
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  maxHPPercent: 20

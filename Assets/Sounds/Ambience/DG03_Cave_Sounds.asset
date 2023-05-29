@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bd992325fecbe48823281d705687a2, type: 3}
+  m_Name: DG03_Cave_Sounds
+  m_EditorClassIdentifier: 
+  backgroundSound: {fileID: 8300000, guid: 57f59d7847ecd804ca06ff19926b7e52, type: 3}
+  ambientSounds:
+  - {fileID: 8300000, guid: 41425b6b3112e004089b399b275a0380, type: 3}
+  - {fileID: 8300000, guid: 136ca1175c6726f4792688da7147417f, type: 3}
+  - {fileID: 8300000, guid: 7a79abbb7e41ae84abf3ae27c22af245, type: 3}
+  - {fileID: 8300000, guid: c75331659047ba84792598ae9fb12cba, type: 3}
+  minInterval: 15
+  maxInterval: 25
+  volumeMultiplier: 0.05

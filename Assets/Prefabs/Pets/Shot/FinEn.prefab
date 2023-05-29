@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4083646152969695314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: a86411587539b4a79ab761cf8ae7203f, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: essence
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: fogMask
+      value: 
+      objectReference: {fileID: 7380219336069378323, guid: aeb1696641a29b249bbb3682c0c19970, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Fin' En
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 8777859a85f49894f944f62e99880fc2, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Devil
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: 13496bcb2ed7d4618b5f18b76b87919d, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: What could go wrong? Supreme increase in damage and speed, although
+        with a devastating decrease in life.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[0]
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[1]
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[2]
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647265, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: maxValue
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 13496bcb2ed7d4618b5f18b76b87919d, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: FinEn
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: weapon
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healing
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: dropRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: movement
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: displayHp
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialStats
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &7674989874451710134 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 4083646152969695314}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1978185156206134924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674989874451710134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfab7d57953bc0849826f14a678db975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Devil
+  description: What could go wrong? Supreme increase in damage and speed, although
+    with a devastating decrease in life.
+  useType: 0
+  maxUses: 0
+  totalTime:
+  - 10
+  - 12
+  - 14
+  rechargeTime:
+  - 30
+  - 30
+  - 30
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  bulletDamagePercent: 460000006400000082000000
+  bulletForcePercent: 140000001400000014000000
+  pushbackPercent: 320000003200000032000000
+  charMaxHPPercent: 190000003200000046000000
+  charSpeedPercent: 190000001e00000028000000

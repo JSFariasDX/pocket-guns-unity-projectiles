@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4842287106866036672
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8612579
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Color.r
+      value: 0.16176468
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[5]
+      value: -1756319847
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[6]
+      value: 1769779363
+      objectReference: {fileID: 0}
+    - target: {fileID: 1071282916761666620, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[7]
+      value: -536955959
+      objectReference: {fileID: 0}
+    - target: {fileID: 4542823355440558567, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SpriteLibraryAsset
+      value: 
+      objectReference: {fileID: 7108339969198208228, guid: 51a07e5d093374657a7b9788fd2b0948, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: flipY
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: fogMask
+      value: 
+      objectReference: {fileID: 7380219336069378323, guid: aeb1696641a29b249bbb3682c0c19970, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketName
+      value: Diaz Pam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: c50f74e1bd3251543963e9b770bdf496, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialTitle
+      value: Sniper
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketEggIcon
+      value: 
+      objectReference: {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 4163bc3171f63c54e91e964b3e147f1e, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.x
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: hatchCountRange.y
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketDefaultIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: 4a1f3c4fb99e040c581fbd2e3d1da8d9, type: 3}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: pocketHudMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 753d7a2b8b33f9e4c914a132a311c538, type: 2}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialDescription
+      value: Need to stop to aim. Higher fire rate and reload speed, but slower movement.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[0]
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[1]
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647264, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healthValues.Array.data[2]
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647265, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: maxValue
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4a1f3c4fb99e040c581fbd2e3d1da8d9, type: 3}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647266, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ef446e17127e354b8712f3de785159d, type: 2}
+    - target: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_Name
+      value: DiazPam
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921965412786647269, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: weapon
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: healing
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: dropRate
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: movement
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: displayHp
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8175223067776521182, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+      propertyPath: specialStats
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+--- !u!1 &1232946559742119716 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5921965412786647268, guid: bd40497c4480542e9bad21d40cee323f, type: 3}
+  m_PrefabInstance: {fileID: 4842287106866036672}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5079732728330792299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1232946559742119716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f500f49b16214b1da07f0186fe1ce83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Sniper
+  description: Need to stop to aim. Higher fire rate and reload speed, but slower
+    movement.
+  useType: 0
+  maxUses: 0
+  totalTime:
+  - 10
+  - 12
+  - 15
+  rechargeTime:
+  - 10
+  - 10
+  - 10
+  timeRecoverEachDungeon: 0
+  isActivated: 0
+  specialParticle: {fileID: 0}
+  specialExplosion: {fileID: 0}
+  isSecondaryEffectApplied: 0
+  sfxMixer: {fileID: 0}
+  specialClips: []
+  ammoPercentage: baffffffc4ffffffceffffff
+  rechargePercentage: ceffffffc4ffffffbaffffff
+  fireRatePercentage: ceffffffd8ffffffe2ffffff
+  bulletDistancePercentage: 320000003c00000050000000
+  recoilPercentage: ceffffffc4ffffffbaffffff
+  charSpeedPercente: 9cffffff9cffffff9cffffff
+  projectileFlight: 000001
+  projectilePierce: 000101

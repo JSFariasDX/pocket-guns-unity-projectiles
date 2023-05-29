@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gemeo_divide
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 29318630bce01b84bb74f8f3bdcbb569, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: 934de6aaa610395428915f506e4d4359, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 72915ba97151462409d7b77b48519716, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: d85542ebf5ac36942b0d498a0d5d63be, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: ece41960730a67444b1ca031b5b194a3, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: ad7363e280de8564aa4fee28c68926b1, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: bb83cc98d1ed37b4c88469beae6ad76e, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: e05dfdc6aa2af32489ebb37f848c1b89, type: 3}
+    - time: 0.6666667
+      value: {fileID: 21300000, guid: f7da058e1fb021447b496d6ea8de065e, type: 3}
+    - time: 0.75
+      value: {fileID: 21300000, guid: dfaad82e165eada46828cb4a29cc00f7, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 16d219eac98d2ac4d9ba3f2f9e110e5d, type: 3}
+    - time: 0.9166667
+      value: {fileID: 21300000, guid: 5dd2194238a826247890649028f06bd0, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: 9b01fc9edc99e5d48a1db74231f4f6dc, type: 3}
+    - time: 1.0833334
+      value: {fileID: 21300000, guid: f8fd991a7b735344ca77404a9ef9bc85, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 29318630bce01b84bb74f8f3bdcbb569, type: 3}
+    - {fileID: 21300000, guid: 934de6aaa610395428915f506e4d4359, type: 3}
+    - {fileID: 21300000, guid: 72915ba97151462409d7b77b48519716, type: 3}
+    - {fileID: 21300000, guid: d85542ebf5ac36942b0d498a0d5d63be, type: 3}
+    - {fileID: 21300000, guid: ece41960730a67444b1ca031b5b194a3, type: 3}
+    - {fileID: 21300000, guid: ad7363e280de8564aa4fee28c68926b1, type: 3}
+    - {fileID: 21300000, guid: bb83cc98d1ed37b4c88469beae6ad76e, type: 3}
+    - {fileID: 21300000, guid: e05dfdc6aa2af32489ebb37f848c1b89, type: 3}
+    - {fileID: 21300000, guid: f7da058e1fb021447b496d6ea8de065e, type: 3}
+    - {fileID: 21300000, guid: dfaad82e165eada46828cb4a29cc00f7, type: 3}
+    - {fileID: 21300000, guid: 16d219eac98d2ac4d9ba3f2f9e110e5d, type: 3}
+    - {fileID: 21300000, guid: 5dd2194238a826247890649028f06bd0, type: 3}
+    - {fileID: 21300000, guid: 9b01fc9edc99e5d48a1db74231f4f6dc, type: 3}
+    - {fileID: 21300000, guid: f8fd991a7b735344ca77404a9ef9bc85, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.1666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 1.0833334
+    functionName: onDie
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

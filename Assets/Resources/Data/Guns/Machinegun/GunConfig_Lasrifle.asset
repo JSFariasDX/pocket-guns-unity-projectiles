@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a73b75a392a214e9ab97be83fda5d377, type: 3}
+  m_Name: GunConfig_Lasrifle
+  m_EditorClassIdentifier: 
+  gunType: 2
+  displayName: Lasrifle
+  specialName: 
+  sideView: {fileID: 21300000, guid: 709cfccf63766448d8cbb59b5675c348, type: 3}
+  topView: {fileID: 21300000, guid: f6dd426f96fb045ebae8fa2ebaf8cbb4, type: 3}
+  description: 
+  baseBulletDamage: 40
+  baseAmmoAmount: 15
+  baseRechargeTime: 2
+  basePushBack: 60
+  baseFireRate: 0.3
+  baseBulletForce: 15
+  baseBulletDistance: 8
+  baseInaccuracy: 4
+  baseInaccuracyMaxBullets: 50
+  baseBulletSize: 0.5
+  bulletAmountPerFire: 1
+  isRadialFire: 0
+  radialAngle: 0
+  scatteredShots: 0
+  hasSplash: 0
+  splashBaseDamagePercent: 0
+  splashBaseRadius: 0
+  particleGradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  damageInfo: 5
+  ammoInfo: 3
+  rechargeInfo: 7
+  fireRateInfo: 9

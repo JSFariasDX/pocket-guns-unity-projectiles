@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: ExplorerSinisterLab
+  m_EditorClassIdentifier: 
+  PossibleItems: []
+  IsRepeatable: 0
+  IsSingleBuy: 1
+  SaleChance: 1
+  CheapChance: 0
+  ExpensiveChance: 0
+  VeryExpensiveChance: 0
+  PriceType: 2
+  BloodPercentage: 0
+  SalePriceRange: {x: 0, y: 0}
+  CheapPriceRange: {x: 0, y: 0}
+  ExpensivePriceRange: {x: 0, y: 0}
+  VeryExpensivePriceRange: {x: 0, y: 0}
+  ActivationDialogue: {fileID: 11400000, guid: 8549b0687c6b2964bbf2f2238c8bbe96, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: 6e4998273c005354382d29904bdf572d, type: 2}
+  BuyFailDialogue: {fileID: 0}
+  DeactivationDialogue: {fileID: 11400000, guid: bdd1bb9cb2100ca4aa281efd7d76b9f4, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: 36572a2b8e975ec46a2477a7f7f32eea, type: 2}

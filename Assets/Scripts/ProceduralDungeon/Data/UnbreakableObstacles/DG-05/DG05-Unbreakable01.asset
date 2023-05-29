@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5c4488287b2466197df857bb14e73b, type: 3}
+  m_Name: DG05-Unbreakable01
+  m_EditorClassIdentifier: 
+  sizeX: 2
+  sizeY: 2
+  prefab: {fileID: 5964184786244303132, guid: 2c4b5363ba5b56549b8a6d174713d9c6, type: 3}
+  defaultOrientation: 1
+  ignoreWallsOnPlacement: 0

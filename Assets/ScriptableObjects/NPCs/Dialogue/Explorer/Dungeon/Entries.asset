@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: Entries
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - 'Entry 01: If you''re reading this, then I may have already greeted you, although
+      not in a proper manner.'
+  - Name: 
+    Sentences:
+    - 'Entry 02: Let me introduce myself: my name is Azalor, I am the chieftain of
+      the Caretakers.'
+  - Name: 
+    Sentences:
+    - 'Entry 03: We''ve been living in union with the Pockets for ages. They care
+      for the planet, and we care for them.'
+  - Name: 
+    Sentences:
+    - 'Entry 04: In the same way I lead all of my fellow Caretakers, so does the
+      Pocket-Mor lead all the Pocket. Our relationship is, above all, an agreement.'
+  - Name: 
+    Sentences:
+    - 'Entry 05: Through our union, the Balance is served.'
+  - Name: 
+    Sentences:
+    - 'Entry 06: But yet, a spark grew into greed. We prized our cooperation above
+      all things, but the Pocket-Mor had other ideas.'
+  - Name: 
+    Sentences:
+    - 'Entry 07: We looked everywhere but to our backs.'
+  - Name: 
+    Sentences:
+    - 'Entry 08: They wished for the best for the species, and in it''s thoughts,
+      we were seen as... unfitting...'
+  - Name: 
+    Sentences:
+    - 'Entry 09: Speciesism, maybe, or just an all-out individualism.'
+  - Name: 
+    Sentences:
+    - 'Entry 10: In a way, they were right. The Pockets were the life-givers, we
+      just protected them. After most of the world was conquered, what harm could
+      befall them?'
+  - Name: 
+    Sentences:
+    - 'Entry 11: We were tools.'
+  - Name: 
+    Sentences:
+    - 'Entry 12: But yet, we couldn''t see such thought in our friends. Their intentions
+      were genuine, or at least I think they were.'
+  - Name: 
+    Sentences:
+    - 'Entry 13: The will to... free... all the Pockets came from the Mor.'
+  - Name: 
+    Sentences:
+    - 'Entry 14: While we, Caretakers, decide our destiny with arguments and logic,
+      the Mor simply overcame all the Pockets'' minds and put them against us.'
+  - Name: 
+    Sentences:
+    - 'Entry 15: The only ones unaffected where those who still were in their eggs,
+      yet to be born.'
+  - Name: 
+    Sentences:
+    - 'Entry 16: In a flash of power, we were hit by the Mor''s curse. At first,
+      we thought it meant nothing. How wrong we were...'
+  - Name: 
+    Sentences:
+    - 'Entry 17: We started to get sick. Our minds were twisting and our logic abandoning
+      us.'
+  - Name: 
+    Sentences:
+    - 'Entry 18: Laboratories were created to try and halt the spread of the curse.
+      All in vain.'
+  - Name: 
+    Sentences:
+    - 'Entry 19: We tried everything to prevent the development of the curse, but
+      it was beyond reason. It was the Pocket''s power made manifest.'
+  - Name: 
+    Sentences:
+    - 'Entry 20: And so, a council was called. There was no saving us, but we would
+      deny the Mor it''s victory.'
+  - Name: 
+    Sentences:
+    - 'Entry 21: We stormed their tree, weapons in hand. Sure, there was no way we
+      could defeat it, but we could draw it''s attention.'
+  - Name: 
+    Sentences:
+    - 'Entry 22: While my brothers sacrificed themselves to gain us time, me and
+      my 4 closest partners retrieved their eggs.'
+  - Name: 
+    Sentences:
+    - 'Entry 23: We fled to different parts of the world, Where the wilds where still
+      untamed. We knew the Mor could not reach us there.'
+  - Name: 
+    Sentences:
+    - 'Entry 24: There was no stopping the curse, we could already see our bodies
+      mutating.'
+  - Name: 
+    Sentences:
+    - 'Entry 25: And so, one last ritual was performed. We engraved in our minds
+      one single command: protect the eggs at all costs.'
+  - Name: 
+    Sentences:
+    - 'Entry 26: The last few of our kind came to us to help protect the place.'
+  - Name: 
+    Sentences:
+    - 'Entry 27: If you''re reading this, then you''re already met our new monstruous
+      forms.'
+  - Name: 
+    Sentences:
+    - 'Entry 28: Cry not for our fate, for there is yet much to be done.'
+  - Name: 
+    Sentences:
+    - 'Entry 29: Retrieve the eggs we stole. Each of my partners will be protecting
+      one of them.'
+  - Name: 
+    Sentences:
+    - 'Entry 30: You''ll met heavy resistance, but see this as a test.'
+  - Name: 
+    Sentences:
+    - 'Entry 31: You, brave and strong enough to defeat us, is the hope of the Balance.'
+  - Name: 
+    Sentences:
+    - 'Entry 32: I may be changed, but I am still me, and I know what must be done.'
+  - Name: 
+    Sentences:
+    - 'Entry 33: Such is my mutation that I fear I will warp the entire place where
+      I transform.'
+  - Name: 
+    Sentences:
+    - 'Entry 34: Remember me, for I am Azalor, and I choose to deny an opressor it''s
+      bounty.'
+  - Name: 
+    Sentences:
+    - 'Entry 35: I trust the safety of the eggs to you, young Caretaker.  Burn your
+      fears and conquer your fate with the flames of your courage. Godspeed and goodbye.'

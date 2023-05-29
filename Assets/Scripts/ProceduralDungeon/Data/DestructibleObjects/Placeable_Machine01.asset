@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5c4488287b2466197df857bb14e73b, type: 3}
+  m_Name: Placeable_Machine01
+  m_EditorClassIdentifier: 
+  sizeX: 3
+  sizeY: 2
+  prefab: {fileID: 404345714148509937, guid: 25de2a9a8e37bb94089ddb7edb0b0f22, type: 3}
+  defaultOrientation: 1

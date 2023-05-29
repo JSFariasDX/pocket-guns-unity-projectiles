@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bd992325fecbe48823281d705687a2, type: 3}
+  m_Name: DG05_SinisterLab_Sounds
+  m_EditorClassIdentifier: 
+  backgroundSound: {fileID: 0}
+  ambientSounds:
+  - {fileID: 8300000, guid: 3d96b4de0cf9a9a4dbcf16fd5cc8d1bb, type: 3}
+  - {fileID: 8300000, guid: 1b9a721b681a1fc4daba319e77014fc2, type: 3}
+  - {fileID: 8300000, guid: b0075b255053f5a498476591a3bb784f, type: 3}
+  - {fileID: 8300000, guid: b24a301b37a97cc4684d2a3569769986, type: 3}
+  - {fileID: 8300000, guid: 32c4c652865647a498919d3d15806d38, type: 3}
+  - {fileID: 8300000, guid: ec1b1745af7014341abb1d5ac65e487d, type: 3}
+  - {fileID: 8300000, guid: c25f9f71888e7704da591255895281b8, type: 3}
+  - {fileID: 8300000, guid: 604ea2ee2e01f734cbccbb86d25acd85, type: 3}
+  minInterval: 40
+  maxInterval: 60
+  volumeMultiplier: 0.05

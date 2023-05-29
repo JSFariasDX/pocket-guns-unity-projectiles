@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fcd135dc30cf43188d9615198be196a, type: 3}
+  m_Name: OST_Dungeon03
+  m_EditorClassIdentifier: 
+  BossOST: 0
+  baseTrack: {fileID: 8300000, guid: 69a36ece652cc4e4ebfbfb7b2a5e69ea, type: 3}
+  singleDrumTrack: {fileID: 8300000, guid: ed4c9121dfdb50947a5788f15699e3eb, type: 3}
+  doubleDrumTrack: {fileID: 8300000, guid: 754dd7d7507656f4c8f3dc85cb433b0b, type: 3}
+  dangerTrack: {fileID: 8300000, guid: cb55c025179544345bca19f246f86e6d, type: 3}
+  endSFX: {fileID: 8300000, guid: 2cb048b37210c41429f26afa3c582561, type: 3}

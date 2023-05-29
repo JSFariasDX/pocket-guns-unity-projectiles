@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: SinisterLabDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - We had only a fraction of the truth since the beginning! I can't believe it!
+  - Name: 
+    Sentences:
+    - Do we know know, mate, what must be done?
+  - Name: 
+    Sentences:
+    - Azalor, leader of the Caretakers, your memory remains. Thank you for your sacrifice.
+      It won't be in vain.
+  - Name: 
+    Sentences:
+    - I don't know what is right anymore, but we came too far. We need the last egg.
+      Not for us, but for the Pockets!
+  - Name: 
+    Sentences:
+    - We'll meet heavy resistance here, mate. The last stand of an entire group focused
+      in stopping us.
+  - Name: 
+    Sentences:
+    - The entire place seems to be warped. I fear what monstruous being caused all
+      this.
+  - Name: 
+    Sentences:
+    - Beware, mate. Danger might have been closer than we thought.
+  - Name: 
+    Sentences:
+    - It is not the characteristic of a leader to be small and weak. Beware this
+      fight, mate.
+  - Name: 
+    Sentences:
+    - Your Pockets, they seem to care for you. It truly has been a long journey,
+      innit?
+  - Name: 
+    Sentences:
+    - 'I no longer can call such creatures monsters, even though they might resemble
+      them. '
+  - Name: 
+    Sentences:
+    - I've once met a black hole specialist called Cornell. He told me there's a
+      way to stop them from coming. Let's see if I can remember how.
+  - Name: 
+    Sentences:
+    - 'Mate, not only do the monsters share the same DNA, but they share the DNA
+      with you too! It''s the same! '
+  - Name: 
+    Sentences:
+    - Tell me, mate, has the Pocket-Mor ever told you about what happened to the
+      other Caretakers? I wonder...

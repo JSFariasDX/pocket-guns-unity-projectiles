@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: Master
+  m_EditorClassIdentifier: 
+  PossibleItems:
+  - {fileID: 2540699840310644661, guid: ca208b2d2e051e747bdf7d8d62493625, type: 3}
+  - {fileID: 9161901892513194162, guid: ad0aab2ff52cae94dba225db5c194538, type: 3}
+  - {fileID: 4213509948286252478, guid: ff102159ba1cca640a8bea0fa2994116, type: 3}
+  - {fileID: 6823678234735197658, guid: e26c8cccf1a7a46498b8260b54690766, type: 3}
+  - {fileID: 7908265455271029902, guid: 0fc14cf8f045ef2469b01dab981933cd, type: 3}
+  - {fileID: 8951971420885515245, guid: 40cb2df181cf4fd4293ea095bd237cb9, type: 3}
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0.1
+  CheapChance: 0.35
+  ExpensiveChance: 0.45
+  VeryExpensiveChance: 0.1
+  PriceType: 0
+  BloodPercentage: 0
+  SalePriceRange: {x: 10, y: 15}
+  CheapPriceRange: {x: 16, y: 20}
+  ExpensivePriceRange: {x: 21, y: 25}
+  VeryExpensivePriceRange: {x: 26, y: 35}
+  ActivationDialogue: {fileID: 11400000, guid: d903eaea78977c24a8abc7053bf5b49f, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: a3755287034ccdd4d8cbb164dd8b09d5, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: 0f9d135fb96d3d447ad779a63475aa87, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: 8ddf511a5577b1b4c8f748a444ce88c2, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: 5b0e6998446f5134c9b665ec28002f1e, type: 2}

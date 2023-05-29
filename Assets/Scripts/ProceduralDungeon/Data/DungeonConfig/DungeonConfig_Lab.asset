@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94702effab10d4a8da301c6764890bbc, type: 3}
+  m_Name: DungeonConfig_Lab
+  m_EditorClassIdentifier: 
+  type: 0
+  paintAsset: {fileID: 11400000, guid: def2b1b510f8d4491b5740b2f8e97b89, type: 2}
+  background: {fileID: 21300000, guid: 108f7a9641e304985baa3bdff63dadef, type: 3}
+  TilesetMaterial: {fileID: 0}
+  BackgroundMaterial: {fileID: 0}
+  spawnLights: 1
+  filterColor:
+    serializedVersion: 2
+    rgba: 2019950592
+  filterSortingLayer: ColorFilters
+  minSortedRooms: 4
+  maxSortedRooms: 8
+  centerTemplateSpawnChance: 40
+  cornerBoxesSpawnChance: 80
+  primaryOrSecondaryChanceOfPrimary: 30
+  roomRewardChance: 100
+  NpcSpawnChances: {fileID: 11400000, guid: 7946df35a1bbd734f9fc87af1a54c804, type: 2}
+  tankPrefab: {fileID: 7516911111643784773, guid: 1368f805c290b4e84bf8172be06b0d08, type: 3}
+  playerLightIntensity: 0.56
+  playerLightRadius: 12
+  lightInnerRadius: 0
+  AmbientLightPrefab: {fileID: 7506327011322579386, guid: d1a4b2a26ba8b48d194c436561abcf7e, type: 3}
+  FloorLightPrefab: {fileID: 7298689278633777927, guid: 862ae2dfcb35f46c3b1d5d5c8b0b2601, type: 3}
+  SpotLightPrefab: {fileID: 2203060886928998276, guid: 9300f9b8033cb4adc9f3f0e5a057964a, type: 3}
+  distanceFromCenterToDarkSpot: 8
+  lightPaddingFromEachOther: 3
+  PlaceLightsInBossRoom: 1
+  doorPrefab: {fileID: 7810600842107825882, guid: fd8f48f37595d4ccd94f8273be1f1232, type: 3}
+  BossSpawn: {fileID: 0}
+  bossPrefab: {fileID: 6798498171832999668, guid: a76ee931b0b614c73997e0a3cde2ccce, type: 3}
+  BossElevatorPrefab: {fileID: 1198077538556340552, guid: 83c816047a77ec9478a591d0a255337d, type: 3}
+  ElevatorOffset: {x: 0, y: 1}
+  bossRoomBaseSize: 8
+  BossRoomIgnoreUpRightCorridors: 0
+  spriteMaskPrefab: {fileID: 2323148869364751348, guid: c6203e5b91bc4f144b7b79287eadc2e3, type: 3}
+  keyChestPrefab: {fileID: 3732090365809076068, guid: 8142762fd829a384bb8536f265bcc18e, type: 3}
+  keysNeeded: 1
+  possibleKeys:
+  - {fileID: 11400000, guid: fc80c066d6b800345909cb7605a63818, type: 2}
+  - {fileID: 11400000, guid: 372d0c63b2997f04ebdab3c6e0989250, type: 2}
+  - {fileID: 11400000, guid: 6d4ba3562dc8e954d8668471410b801a, type: 2}
+  - {fileID: 11400000, guid: be9d7464061de634398d6c3a02c58d0a, type: 2}
+  powerUpRewards:
+  - {fileID: 4758076633115754621, guid: 43a14425f32739345813b43359a463f6, type: 3}
+  - {fileID: 2088494432640115833, guid: 9e2277fbb0a09634b80c1125e956fff2, type: 3}
+  - {fileID: 4125909343020767205, guid: 02b0704233964c840b5e6063aa078b4f, type: 3}
+  - {fileID: 6399652603606739880, guid: 09ff1a92e703018429f1dd7219631a22, type: 3}
+  - {fileID: 3821505280989423351, guid: 2ec8f98360dd1924ea94e7c6dbaa7c3a, type: 3}
+  - {fileID: 2540699840310644661, guid: ca208b2d2e051e747bdf7d8d62493625, type: 3}
+  - {fileID: 7467969146000008134, guid: 3ab8bb77783e8274cb5213e79f92a045, type: 3}
+  - {fileID: 9161901892513194162, guid: ad0aab2ff52cae94dba225db5c194538, type: 3}
+  - {fileID: 8688794867535796146, guid: 65e162cef329fd942b2e9f17a1893432, type: 3}
+  - {fileID: 2073088935134369303, guid: ffcc7f8801ad49a4dafa7191a0ae5ea0, type: 3}
+  - {fileID: 1996572502390589369, guid: ac8774b598050cb458a68dc586a13709, type: 3}
+  - {fileID: 1527002739543712969, guid: 73bf7e4c71cee7947a9e0bac4e87e3e2, type: 3}
+  - {fileID: 9066100482300171746, guid: 3fd1773365d390b459171ee4412e14f1, type: 3}
+  - {fileID: 5022516365452080323, guid: 722ede76fd186894e834853fc540646b, type: 3}
+  - {fileID: 1304309315622507073, guid: 23971f6583b851242baeaa6613f579c6, type: 3}
+  - {fileID: 2123991899982015023, guid: 90309beb379e241448388861707f7ac9, type: 3}
+  - {fileID: 6823678234735197658, guid: e26c8cccf1a7a46498b8260b54690766, type: 3}
+  - {fileID: 7208650396452363629, guid: c17854ff608209a42b98c2e69763dbaa, type: 3}
+  - {fileID: 7151606234679558627, guid: 610e69b2d0cb37741accc1542a2838af, type: 3}
+  - {fileID: 6924137222706435599, guid: 07b86f248a1a4db4b979bfd5f0947584, type: 3}
+  - {fileID: 1723794868039733272, guid: eb0775f90f35049488f344a28acb14d6, type: 3}
+  - {fileID: 7713808192269643083, guid: c11621f22bfc33840939e88b76483a8f, type: 3}
+  - {fileID: 6990303675350587155, guid: 8887e4ff3254a11498582f70a071f0db, type: 3}
+  - {fileID: 1085904801931434609, guid: fc14f60434745de49b68d85a88dcb4bf, type: 3}
+  - {fileID: 2985797263062380164, guid: 50b4fdece79d977439281a23c40f5a31, type: 3}
+  - {fileID: 1832557871573282973, guid: d9e40fd0dac171c40969b5d64ed39a22, type: 3}
+  - {fileID: 7908265455271029902, guid: 0fc14cf8f045ef2469b01dab981933cd, type: 3}
+  - {fileID: 5728777235024249331, guid: 37c3bf1fe1a725c4baa079640a1f4e8f, type: 3}
+  - {fileID: 8951971420885515245, guid: 40cb2df181cf4fd4293ea095bd237cb9, type: 3}
+  - {fileID: 1533815350581885636, guid: f3adeea1ba090d046961cb9d59c68a2e, type: 3}
+  - {fileID: 4213509948286252478, guid: ff102159ba1cca640a8bea0fa2994116, type: 3}
+  - {fileID: 8968977827728402199, guid: c678e954d5a480842872c19170e8082b, type: 3}
+  - {fileID: 307336667490227310, guid: 1f9cd339b329ca047839f3a91f8663d2, type: 3}
+  - {fileID: 4252765367420264536, guid: 1dd02e4e15cae8b4f815aac7d5869bd5, type: 3}
+  - {fileID: 4159147371502650694, guid: b8a276db3f8baa84da95b119e6899914, type: 3}
+  - {fileID: 1371389411043386046, guid: adc85d108d3a522488f2d128be2b9d32, type: 3}
+  healRewards:
+  - {fileID: 7467969146000008134, guid: 3ab8bb77783e8274cb5213e79f92a045, type: 3}
+  - {fileID: 9161901892513194162, guid: ad0aab2ff52cae94dba225db5c194538, type: 3}
+  gunRewards:
+  - {fileID: 8449329010984070038, guid: ed3f5977ff6fe7e408a562ea8de72017, type: 3}
+  - {fileID: 8449329010984070038, guid: 449f99839f68de74e973a8f6f00a714e, type: 3}
+  - {fileID: 8449329010984070038, guid: 399a09128afcdc94884a93932fdcfd83, type: 3}
+  - {fileID: 8449329010984070038, guid: 74dc125c473128a4c9bf6476501cdf54, type: 3}
+  primaryBreakableObstacles:
+  - {fileID: 11400000, guid: a362c40a846e646c1871d12891520dd2, type: 2}
+  primaryUnbreakableObstacles:
+  - {fileID: 11400000, guid: 6a2ae687c50554d899a73c3551a2571d, type: 2}
+  secondaryBreakableObstacles:
+  - {fileID: 11400000, guid: 27445e8f6af084aee9880dfcafcbc0fc, type: 2}
+  - {fileID: 11400000, guid: 39bec9316a97f4a0a9d85165987d0f48, type: 2}
+  - {fileID: 11400000, guid: e495c5351b3b7410f9e98acbb006b265, type: 2}
+  - {fileID: 11400000, guid: 27246512ae9444f8c8c0d0b13cdca85b, type: 2}
+  roomCenterTemplates:
+  - {fileID: 11400000, guid: 8cdb2ac60d9be416aae583a027c3de65, type: 2}
+  - {fileID: 11400000, guid: 79b75112840104780a555737657cbceb, type: 2}
+  - {fileID: 11400000, guid: b7072d0ffd138485a9019c7eb9ee9ece, type: 2}
+  - {fileID: 11400000, guid: f0b4ed0481b954821b4849087fea68fd, type: 2}
+  baseOST: {fileID: 11400000, guid: f67a1bebbc21541c9ba70d14dd061a42, type: 2}
+  bossOST: {fileID: 11400000, guid: ef6c37a780c61444e90077f7612f2dcc, type: 2}
+  clearRoomSound: {fileID: 8300000, guid: d8f63161218b9494cbcd73a4a69793df, type: 3}
+  ambientSoundPack: {fileID: 11400000, guid: 95fc84a771ad06a4eaea2b208b69bdab, type: 2}
+  mainClip: {fileID: 8300000, guid: 4f151ba3cbee1d54fb618739a9dae89f, type: 3}
+  corridorClip: {fileID: 8300000, guid: 785fdb89d2c594442aafe2137213800d, type: 3}
+  bossClip: {fileID: 8300000, guid: e00ae6e7a3de24945986c5e609a8050d, type: 3}
+  enemySpawnParticlePrefab: {fileID: 4489265793676406454, guid: 5fd696d6047a5364ebbaac627b41c0d7, type: 3}
+  rewardSpawnParticle: {fileID: -774639953392968436, guid: 0b629f24bdf551e4ab26cfe0c6563c1d, type: 3}
+  enemiesEncountersFolder: LAB
+  possibleEncountersData: []
+  portalPrefab: {fileID: 1597337662285920483, guid: 8fae212a6910593468a9a683fe9ef6a8, type: 3}
+  isLastDungeon: 0
+  layer1Decorations:
+  - {fileID: 11400000, guid: 0232c81b307374699ab68d6f82bb0dfb, type: 2}
+  - {fileID: 11400000, guid: 422eaf3d7aeb74736b66e0bd96d79c8a, type: 2}
+  - {fileID: 11400000, guid: 60815b8511d7b492aada8663f52b9d83, type: 2}
+  - {fileID: 11400000, guid: 8b678082de8874c659f3479433e4f6a7, type: 2}
+  - {fileID: 11400000, guid: afdf6d70c1bb144018f05098a4c050d9, type: 2}
+  - {fileID: 11400000, guid: da9073523ef9c4b5caeca0a6e9a95caf, type: 2}
+  - {fileID: 11400000, guid: 50c2516d3cb2c4e6786ba8040dc729d6, type: 2}
+  - {fileID: 11400000, guid: ce0d520409d2242669c9ba126b6f4e00, type: 2}
+  - {fileID: 11400000, guid: e6800c233b7de425db103fd84c1a86bd, type: 2}
+  layer2Decorations:
+  - {fileID: 11400000, guid: 11d075b630a5440e2914f6bc011ec61e, type: 2}
+  - {fileID: 11400000, guid: c573293f27a86495095c19ee553722c9, type: 2}
+  - {fileID: 11400000, guid: 4e1a6ca8e80004bf0a4d656e2b5eeed2, type: 2}
+  - {fileID: 11400000, guid: cd14f48cdd2ad493b98a5579b6f1f78f, type: 2}
+  - {fileID: 11400000, guid: 0a972c6d418da459490e8612a9ce55d4, type: 2}
+  - {fileID: 11400000, guid: de5133bf83d644cfab858bd070acefc5, type: 2}
+  - {fileID: 11400000, guid: 943d7300905544bdebfeb117ffeeea35, type: 2}
+  - {fileID: 11400000, guid: e05c28d35da3340dbb49ab072de1b308, type: 2}
+  layer3Decorations:
+  - {fileID: 11400000, guid: 3a1b6a802576642f1a3aec3715b5899d, type: 2}
+  - {fileID: 11400000, guid: 38c332122d11b42a28e68de655af92e4, type: 2}
+  - {fileID: 11400000, guid: e929e92d31c05482a9f609d0f4f6b980, type: 2}
+  - {fileID: 11400000, guid: 23091c73e954946fc90816900ff81e88, type: 2}
+  - {fileID: 11400000, guid: cbd2937c329b74f48ad7d9bc45cb86cb, type: 2}
+  cornerDecorations:
+  - {fileID: 2316679492395634301, guid: 3e12b71713a964f23ae9d8f516393ebf, type: 3}
+  - {fileID: 1191703979834963249, guid: fee2862c7f4474c838c518ef3fa19f01, type: 3}
+  - {fileID: 4251617374509343517, guid: fec9c736d8f8846dda391239db58e870, type: 3}
+  - {fileID: 4827570578061342975, guid: 96a547a31012d4bd280b2c29aab9e8d1, type: 3}
+  externalDecorations: []
+  externalDecorationCount: 1

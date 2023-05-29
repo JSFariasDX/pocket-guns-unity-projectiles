@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c15b18a2eb97d6498c60c285e966ec7, type: 3}
+  m_Name: BioEngineer
+  m_EditorClassIdentifier: 
+  PossibleItems: []
+  IsRepeatable: 0
+  IsSingleBuy: 0
+  SaleChance: 0
+  CheapChance: 0
+  ExpensiveChance: 0
+  VeryExpensiveChance: 0
+  PriceType: 0
+  BloodPercentage: 50
+  SalePriceRange: {x: 0, y: 0}
+  CheapPriceRange: {x: 0, y: 0}
+  ExpensivePriceRange: {x: 0, y: 0}
+  VeryExpensivePriceRange: {x: 0, y: 0}
+  ActivationDialogue: {fileID: 11400000, guid: 6abd56a6bb2ba1a4f8dd5afa31c7cba1, type: 2}
+  BuySuccessDialogue: {fileID: 11400000, guid: 6abd56a6bb2ba1a4f8dd5afa31c7cba1, type: 2}
+  BuyFailDialogue: {fileID: 11400000, guid: d625023b1c339004d847a19c2ff43cef, type: 2}
+  DeactivationDialogue: {fileID: 11400000, guid: 6abd56a6bb2ba1a4f8dd5afa31c7cba1, type: 2}
+  NoItemDialogue: {fileID: 11400000, guid: 6abd56a6bb2ba1a4f8dd5afa31c7cba1, type: 2}

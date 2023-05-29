@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Resources/Data/Guns.meta
+guid: 6be8bd55465fe4018a9d5b90272df723
+folderAsset: yes
+DefaultImporter:
+========
+guid: 90985c578ed6c42fca9d721d851621d6
+NativeFormatImporter:
+>>>>>>>> release/0.12:Assets/Scripts/ProceduralDungeon/Data/DungeonConfig/DungeonConfig_Cave.asset.meta
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

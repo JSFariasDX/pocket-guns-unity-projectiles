@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TotemMidHead
+  m_Controller: {fileID: 9100000, guid: a033f16180066c048834f62aad368a79, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 76fe5d9e48a43794a9d216974ee583b9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24b15ed14c3ce6a408ae4c8de0021eb0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4f5d13fde092b7a47a5a7a396a77d1a0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 11e39077869bdf14c9fb3b17d0906712, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d397f0393b600b2488f1db007cac4e7a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 437ffc7a1775a1d49a79c27410025744, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3a459982cd4f2740acd45f1980172a5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fd314f2303bf9e240a224d7a88ab3004, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e979c9f83729011488c076911628c82c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 065f475b7489ab3409ab2b42c5a01266, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6a1b3e4abf91bed4b9e78b461ef151ea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7250bac38cfeeb444befe8e693fc5279, type: 2}

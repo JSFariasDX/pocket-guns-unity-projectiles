@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: CaveDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - Careful, mate! We are on treacherous terrain! I can't see a single ray of sun
+      'round here. Maybe there's a way to light our way here...
+  - Name: 
+    Sentences:
+    - Crickey! I got lost inside a room with monsters chasing me and started blasting
+      everywhere. For some reason, some green rocks started to shine. Let's see if
+      I can discover what triggered it.
+  - Name: 
+    Sentences:
+    - The creatures around here seems to shine a faintly glow. Use it to your advantage
+      and shoot them before they reach you!
+  - Name: 
+    Sentences:
+    - I love snakes as much as the next person, but snakes even on a cavern?! Holy
+      dooley, that's too much!
+  - Name: 
+    Sentences:
+    - Watch you step, mate, the snakes 'round here will hurt a lot to step on, even
+      when defeated.
+  - Name: 
+    Sentences:
+    - I'm stonkered! I swear I could see a shadow watching me!
+  - Name: 
+    Sentences:
+    - The green crystals 'round here seem to be able to produce light. Let's see
+      if I can create a sort of a lantern.
+  - Name: 
+    Sentences:
+    - I can see some weapons and items scattered 'round those places. Meet me near
+      the elevator and I'll give you something!
+  - Name: 
+    Sentences:
+    - Have you seen the fire one, mate? It bounces from place to place but always
+      sticks somewhere for a while. Hit it while you can!
+  - Name: 
+    Sentences:
+    - 'Whoa there! Have you heard those rumblings? It looks like the place will fall,
+      but it seems quite stable. '
+  - Name: 
+    Sentences:
+    - Explosions seem to shake the entire place up!
+  - Name: 
+    Sentences:
+    - It makes no sense, but a shadow's been following me! No matter where I shot,
+      it never seemed to hurt it. Maybe there's a catch to it...
+  - Name: 
+    Sentences:
+    - Those creatures, they don't fight us for survival or pleasure, they seem to
+      be protecting something. Could it be the egg?
+  - Name: 
+    Sentences:
+    - Are we truly doing the right thing, mate?

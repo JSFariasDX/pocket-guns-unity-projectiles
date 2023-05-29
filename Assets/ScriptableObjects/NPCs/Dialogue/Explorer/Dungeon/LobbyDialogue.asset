@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: LobbyDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - You've collected [X] Pockets. There are many more to be rescued.
+  - Name: 
+    Sentences:
+    - You've collected [X] Pockets. Good job! Keep up like this and soon enough you'll
+      have collected them all!
+  - Name: 
+    Sentences:
+    - You've collected [X] Pockets. We can already see your success shine on our
+      land. I've been waiting for so long to see green grass again.
+  - Name: 
+    Sentences:
+    - You've collected [X] Pockets. Have you seen it? The trees are growing once
+      again and many animals are thriving in this world. We might have a chance and
+      you're the reason, Caretaker.
+  - Name: 
+    Sentences:
+    - You've collected [X] Pockets. The world is thriving and most of our friends
+      are free. The Balance has guided us towards this, and so in balance things
+      are. Still, some more are yet to be found.
+  - Name: 
+    Sentences:
+    - You've collected all 51 Pockets. It is over, all of them are liberated and
+      returned to the embrace of the world. You are, my friend, a hero. Every single
+      living being in this world thanks you. History will remember you kindly.

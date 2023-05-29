@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc54e73ee6705a409c9e7607f53ce76, type: 3}
+  m_Name: ForestDialogue
+  m_EditorClassIdentifier: 
+  List:
+  - Name: 
+    Sentences:
+    - I'd question the Doc's methods, but holy dooley! They work!
+  - Name: 
+    Sentences:
+    - How good it feels to breathe such a clean air! You can be sure there are Pockets
+      here just be seein' how vivid this forest is. Let's hope we can bring such
+      life to our sanctuary.
+  - Name: 
+    Sentences:
+    - I'd really love to hold some beautiful specimens that live here, but their
+      spikes, fangs and hostility tells me to respect their personal space!
+  - Name: 
+    Sentences:
+    - Knock that look, mate! Don't judge me for liking this place.
+  - Name: 
+    Sentences:
+    - Mate, it gives you chiils when the smillin' one opens its eye, don't you think?
+      I was stonkered when it teleported behind me!
+  - Name: 
+    Sentences:
+    - Amazing! The creature that stalks the walls has a projectile that envelops
+      you in place with vines! I've struggled to set myself free and had to dash
+      through it before another one could hit me. I wonder why it had to evolve like
+      that...
+  - Name: 
+    Sentences:
+    - This blind snake's body is cactus! Literally! So watch your step.
+  - Name: 
+    Sentences:
+    - Crickey! I'd spend the entire day shooting the swarm of bities with my pistol
+      if I hadn't run! Guess it was a poor choice of weapon for such an enemy.
+  - Name: 
+    Sentences:
+    - It hurts me, mate. Taking life in order to save life. But such is the way of
+      the Balance.
+  - Name: 
+    Sentences:
+    - The monsters we see 'round these places sure are well-adapted to their environment.
+      Just how much time they had to evolve?
+  - Name: 
+    Sentences:
+    - I don't know, mate, something's off. All of the monsters we see around here
+      are natural killing machines- but yet, they don't have a single predator, nor
+      do they brawl with each other. Why are they so well-versed in defending themselves
+      then?
+  - Name: 
+    Sentences:
+    - Have you seen all those vines that covers this forest's floor? They seem to
+      come from a single entity! Let's keep our pace and see if we can find it.
+  - Name: 
+    Sentences:
+    - Oy, mate, not gonna lie, this forest here really is the kinda place I could
+      spend my life on. What a beauty!
+  - Name: 
+    Sentences:
+    - See those flappin' plant-birds? Shot them with a fast weapon or it will just
+      dodge all your projectiles!
+  - Name: 
+    Sentences:
+    - I did some research, mate, and all of these creatures share the same DNA. I'm
+      afraid of what I'll find...

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Animator
+  - FireEffect
+  - FireFloorEffect
+  - Gate
+  - Collectible
+  - PlayerCollider
+  - PetHealthIndicator
+  - BulletsIndicator
+  - EnemyCount
+  - Pet
+  - EnemyProjectile
+  - Gun
+  - SpecialIndicator
+  - PowerShot
+  - EnemyHealth
+  - EntryPoint
+  - ExitPoint
+  - HUDCanvas
+  - RunValue
+  - MainScore
+  - SpecialName
+  - HitFilter
+  - UnbreakableWall
+  - ThemeManager
+  - PauseManager
+  - CollectCol
+  - ShieldCol
+  - Loading
+  - DestructibleObstacle
+  - PetFilter
+  - PetHealth
+  - BossSpawn
+  - SpecialBar
+  - Fade
+  - Tutorial
+  - Portal
+  - Generation
+  - Background
+  - ColorFilter
+  - Fragment
+  - Shockwave
+  - MinimapIcon
+  - DungeonName
+  - PocketMenu
+  - CocoonShield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Floor
+  - Walls
+  - Enemies
+  - Bullets
+  - Collectibles
+  - Portals
+  - Obstacles
+  - Holes
+  - CollideWithWalls
+  - IgnoreEnemies
+  - FragmentCollider
+  - PowerUps
+  - CoinCollider
+  - FlyEnemies
+  - Minimap
+  - Jumper
+  - Invisible Walls
+  - Tents
+  - Pocket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 2180896015
+    locked: 0
+  - name: Walls
+    uniqueID: 3542766925
+    locked: 0
+  - name: Bullets
+    uniqueID: 573488053
+    locked: 0
+  - name: 
+    uniqueID: 3507443027
+    locked: 0
+  - name: ColorFilters
+    uniqueID: 2303819407
+    locked: 0
+  - name: ExternalDecoration
+    uniqueID: 2538647449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Over
+    uniqueID: 2359184427
+    locked: 0
+  - name: BackEffects
+    uniqueID: 3702591121
+    locked: 0
+  - name: UI
+    uniqueID: 1769779363
+    locked: 0
+  - name: Effects
+    uniqueID: 3758011337
+    locked: 0

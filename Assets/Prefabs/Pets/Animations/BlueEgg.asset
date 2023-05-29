@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87a8fd0fbeb7cfd4488898d01498d4a3, type: 3}
+  m_Name: BlueEgg
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 888441000, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+  - {fileID: -411564469, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+  - {fileID: -1607395067, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+  - {fileID: 1433795499, guid: 19b83137dc1c74397881403b0720d944, type: 3}
+  frameSpeed: 0.1

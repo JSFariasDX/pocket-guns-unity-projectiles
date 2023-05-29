@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Main
+    m_Hash: 521822810
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: default_gate_0
+      m_Hash: 1451984088
+      m_Sprite: {fileID: 1322931725, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 24f1959f59cb24f96a4ce7af051c4196, type: 3}
+    - m_Name: default_gate_1
+      m_Hash: 562869326
+      m_Sprite: {fileID: -2037243151, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 8e480ff3e86d04ebe987c76e881db065, type: 3}
+    - m_Name: default_gate_2
+      m_Hash: -1199184396
+      m_Sprite: {fileID: 909681430, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 237751d24d2a84ce0aecbbc6a6b79f0c, type: 3}
+    - m_Name: default_gate_3
+      m_Hash: -813509278
+      m_Sprite: {fileID: 229221976, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 84089e494f4604b81a7912db7c149625, type: 3}
+    - m_Name: default_gate_4
+      m_Hash: 1374044353
+      m_Sprite: {fileID: 521473777, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 1f8967206811a465da3d7130990d531e, type: 3}
+    - m_Name: default_gate_5
+      m_Hash: 652308567
+      m_Sprite: {fileID: -1918257190, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 4b6d0ba85b70f468a88d374551a8c70c, type: 3}
+    - m_Name: default_gate_6
+      m_Hash: -1075306003
+      m_Sprite: {fileID: 1282627124, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: ed2e8108f00224bad81661c8a42a8170, type: 3}
+    - m_Name: default_gate_7
+      m_Hash: -923856517
+      m_Sprite: {fileID: 502876310, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: ed2e8108f00224bad81661c8a42a8170, type: 3}
+    - m_Name: default_gate_8
+      m_Hash: 1481641194
+      m_Sprite: {fileID: -2096817145, guid: 2dc26c3c600a642c989d28ed454cb494, type: 3}
+      m_FromMain: 1
+      m_SpriteOverride: {fileID: 21300000, guid: 20b38fdcc4d4f4113ab88eed6390fd5f, type: 3}
+    m_FromMain: 1
+    m_EntryOverrideCount: 9
+  m_PrimaryLibraryGUID: b29185a09aa1942f2b70f1cce0ca3f37

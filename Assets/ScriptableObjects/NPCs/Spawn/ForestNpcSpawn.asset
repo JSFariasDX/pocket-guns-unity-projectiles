@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bda0ff67845b63418509cdc89a9a80a, type: 3}
+  m_Name: ForestNpcSpawn
+  m_EditorClassIdentifier: 
+  MinNpcRooms: 2
+  Merchant: {fileID: 8742902939646651636, guid: 954ac34b0cf914698b841b084425fa03, type: 3}
+  Medic: {fileID: 8742902939646651636, guid: b20f0bde3f1724447bb277f07be43afe, type: 3}
+  Explorer: {fileID: 2287659004675422688, guid: 1b1b1b4804f68c94dad7ad8d13488d0a, type: 3}
+  RetiredWarmonger: {fileID: 8742902939646651636, guid: bcfc1fb61802572429ce68c2183dff5e, type: 3}
+  SinisterMerchant: {fileID: 5014491518741134735, guid: 5d4067045fb7e4fd581ed5efb603b241, type: 3}
+  Master: {fileID: 8742902939646651636, guid: 6e897cf5d61ebbc42890dbe30880e249, type: 3}
+  RetiredWarmongerChance: 0.1
+  MedicChance: 0.2
+  SinisterMerchantChance: 0.05
+  ExplorerChance: 0.1
+  MasterChance: 0.15
+  PlusOneChance: 0.4
+  PlusTwoChance: 0.2
+  PlusThreeChance: 0.1

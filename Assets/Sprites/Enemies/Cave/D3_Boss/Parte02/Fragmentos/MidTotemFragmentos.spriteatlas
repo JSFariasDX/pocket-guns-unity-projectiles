@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MidTotemFragmentos
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d39fb19c886b69d49b86f4024481b20e, type: 3}
+    - {fileID: 2800000, guid: 410be564a3545a6408b166e6da7e69a5, type: 3}
+    - {fileID: 2800000, guid: 07e69527be4c0ba4d8516c0638daa818, type: 3}
+    - {fileID: 2800000, guid: 89ff2c766828b21449a98a7e7c070d5f, type: 3}
+    - {fileID: 2800000, guid: 38a392595928195419141aad572860bb, type: 3}
+    - {fileID: 2800000, guid: a2b6fe939fbbcba49be34aeb61a75375, type: 3}
+    - {fileID: 2800000, guid: 9242fcba367c8d64897238bece785bd3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a2b6fe939fbbcba49be34aeb61a75375, type: 3}
+  - {fileID: 21300000, guid: 410be564a3545a6408b166e6da7e69a5, type: 3}
+  - {fileID: 21300000, guid: 89ff2c766828b21449a98a7e7c070d5f, type: 3}
+  - {fileID: 21300000, guid: 07e69527be4c0ba4d8516c0638daa818, type: 3}
+  - {fileID: 21300000, guid: 38a392595928195419141aad572860bb, type: 3}
+  - {fileID: 21300000, guid: 9242fcba367c8d64897238bece785bd3, type: 3}
+  - {fileID: 21300000, guid: d39fb19c886b69d49b86f4024481b20e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Part2_fragmento (6)
+  - Part2_fragmento (2)
+  - Part2_fragmento (4)
+  - Part2_fragmento (3)
+  - Part2_fragmento (5)
+  - Part2_fragmento (7)
+  - Part2_fragmento (1)
+  m_RenderDataMap: {}
+  m_Tag: MidTotemFragmentos
+  m_IsVariant: 0

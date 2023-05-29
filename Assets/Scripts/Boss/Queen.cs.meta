@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ce3a71d8266e46c2a23efeb76396693
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarPrefab: {instanceID: 0}
+  - pm: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - larvaePrefab: {instanceID: 0}
+  - mainCh: {fileID: 8300000, guid: cf7bea7b3a1ea457e965053732f79d91, type: 3}
+  - drumSingle: {fileID: 8300000, guid: ac30abe826ee84562bc43c1262982a6f, type: 3}
+  - doubleDrum: {fileID: 8300000, guid: 0c7960751802f4d06acf05783e357662, type: 3}
+  - danger: {fileID: 8300000, guid: cf7bea7b3a1ea457e965053732f79d91, type: 3}
+  - audioSource: {instanceID: 0}
+  - entranceSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
